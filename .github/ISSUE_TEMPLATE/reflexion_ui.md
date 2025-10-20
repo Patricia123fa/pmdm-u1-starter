@@ -46,7 +46,7 @@ assignees: ''
 **TOTAL autoevaluado:** __ / 10
 
 ## 6. Enlaces
-- README:
+- README: pmdm-u1-starter/README.md
 - Commit inicial / relevante:
 - Capturas:
 ```

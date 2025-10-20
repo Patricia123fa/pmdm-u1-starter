@@ -19,7 +19,7 @@
 3. Clonar el repo con **Get from VCS** en Android Studio (eligiendo "Use this template")
 4. Crear el proyecto “Hello World” dentro del repo (o moverlo después).
 5. Hacer commit y push de los cambios al remoto.
-6. Crear Issue de reflexión y enlazarlo aquí: [Reflexión U1](pmdm-u1-starter/README.md)
+6. Crear Issue de reflexión y enlazarlo aquí: [Reflexión U1](https://github.com/Patricia123fa/pmdm-u1-starter/issues/1)
 ## Limitaciones y tecnologías (resumen)
 - Limitaciones:
   Los móviles tienen CPU y memoria limitada, usando arquitectura big.LITTLE, que delega las tareas según su complejidad.  
@@ -32,7 +32,10 @@
 - local y reintentos de backoff. En cuanto al perfil de repartidor, una de las necesidades sería la optimización de batería y la 
 - conectividad de red, ya que necesitan de servicios GPS para la realización de su trabajo. Para estudiantes necesitamos un acceso 
 - rápido a la descarga de elementos como archivos o vídeos, siendo interesante la posibilidad de visibilidad offline.
-- Tecnologías: ...
+- Tecnologías:
+- Android (Kotlin/Java, Compose/XML): Desarrollo para Android, Java es mas antiguo y actualmente se utiliza más kotlin.
+- iOS (Swift/SwiftUI): Desarrollo para apple.
+- Multiplataforma/híbridas (Flutter, React Native, KMP, Ionic…): Sirven para desarrollo en Android e IOS
 
 ## Comandos Git usados
 
@@ -41,4 +44,5 @@
 git add .
 git commit -m "Hello World + README"
 git push
+git status
 ```
